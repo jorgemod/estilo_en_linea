@@ -1,0 +1,42 @@
+body{
+    background:honeydew;
+}
+h1{
+    color:red;
+    margin-bottom: 10px;
+    font-size: 40px;
+
+}
+p{
+    color:green;
+    font-style: italic;
+    background-color: yellow;
+    padding: 20px;
+}
+#coloress{
+    color:red;
+    font-size: 12pt;
+}
+ul{
+    font-family: monospace;
+    color:aquamarine;
+}
+#parra{
+    color:red;
+    font-size: 12pt;
+
+}
+#clasificacion
+{
+    color:blueviolet;
+}
+#colores
+{
+    color:red;
+    width: 50%;
+    height: 40%;
+}
+ol{
+    font-family: monospace;
+    color: green;
+}
